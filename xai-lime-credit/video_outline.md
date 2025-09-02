@@ -2,7 +2,6 @@
 
 **Slide 1 — Título**
 - Decifrando a Caixa-Preta: LIME no Crédito Bancário
-- Seu nome | Disciplina | Data
 
 **Slide 2 — Problema**
 - Clientes e reguladores pedem “por quê?”
