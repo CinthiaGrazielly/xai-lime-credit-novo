@@ -43,7 +43,7 @@ Aqui usamos o dataset **Statlog (German Credit Data)** da UCI e aplicamos **LIME
 3. **Importante:** marque a caixinha **“Add python.exe to PATH”** antes de clicar em *Install Now*.
 
 ## Passo 2 — Baixar este projeto
-1. Salve o arquivo `.zip` deste projeto no seu computador (faça download pelo link que eu te forneci no chat).
+1. Salve o arquivo 
 2. Clique com o botão direito no `.zip` → **Extrair Tudo…** → escolha uma pasta fácil, por exemplo `C:\Users\SEU_USUARIO\Documents\xai-lime-credit\`.
 
 ## Passo 3 — Abrir a pasta do projeto
